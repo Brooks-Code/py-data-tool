@@ -5,7 +5,7 @@ conn = mysql.connector.connect(
     host='localhost',
     user='root',
     password='1234',
-    database='my_python_data'
+    database='python_data'
 )
 
 # 2. 创建游标
