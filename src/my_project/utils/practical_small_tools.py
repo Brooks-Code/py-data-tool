@@ -15,6 +15,8 @@
 # name = "张三"
 # age = '20'
 # print(f"姓名：{name}\n年龄：{age}")
+str = "第一个案例"
+print("第一个案例"[0:2])
 
 
 
