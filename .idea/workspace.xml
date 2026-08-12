@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42074ad9-a12a-44a0-891e-4f18b328eccf" name="Changes" comment="1、提交">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MY_PYTHON.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +80,6 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.10 (MY_PYTHON)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/my_project/utils" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -127,6 +120,14 @@
       <workItem from="1786499856914" duration="1861000" />
       <workItem from="1786506248046" duration="175000" />
       <workItem from="1786506440885" duration="158000" />
+      <workItem from="1786506610521" duration="82000" />
+      <workItem from="1786507639745" duration="839000" />
+      <workItem from="1786508496440" duration="299000" />
+      <workItem from="1786509558854" duration="38000" />
+      <workItem from="1786509724369" duration="404000" />
+      <workItem from="1786511163557" duration="298000" />
+      <workItem from="1786511531885" duration="200000" />
+      <workItem from="1786511745705" duration="176000" />
     </task>
     <task id="LOCAL-00001" summary="1、提交">
       <option name="closed" value="true" />
@@ -136,7 +137,23 @@
       <option name="project" value="LOCAL" />
       <updated>1786450287355</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1、提交">
+      <option name="closed" value="true" />
+      <created>1786506657504</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1786506657504</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1、提交">
+      <option name="closed" value="true" />
+      <created>1786506675639</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1786506675639</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +178,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MY_PYTHON$main.coverage" NAME="main Coverage Results" MODIFIED="1786450148068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/my_project" />
-    <SUITE FILE_PATH="coverage/MY_PYTHON$dbUtil.coverage" NAME="dbUtil Coverage Results" MODIFIED="1786506473592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/my_project/utils" />
+    <SUITE FILE_PATH="coverage/MY_PYTHON$dbUtil.coverage" NAME="dbUtil Coverage Results" MODIFIED="1786508120513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/my_project/utils" />
   </component>
 </project>
