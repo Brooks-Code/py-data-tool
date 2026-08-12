@@ -4,13 +4,24 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42074ad9-a12a-44a0-891e-4f18b328eccf" name="Changes" comment="1、提交">
+    <list default="true" id="42074ad9-a12a-44a0-891e-4f18b328eccf" name="Changes" comment="1、">
+      <change afterPath="$PROJECT_DIR$/src/my_project/utils/practical_small_tools.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/my_project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/my_project/utils/CaptureVideo.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_project/utils/capture_video.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/my_project/utils/dbUtil.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_project/utils/db_util.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
@@ -22,12 +33,14 @@
     &quot;assignee&quot;: &quot;Brooks-Code&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Brooks-Code/py-data-tool.git&quot;,
-    &quot;accountId&quot;: &quot;85bcae70-298a-4ef7-a49f-ec117720eee4&quot;
-  }
-}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="027bee48-64d5-4c61-ad6e-70bcc1e1921e" />
+        <option name="url" value="https://github.com/Brooks-Code/py-data-tool.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -71,8 +84,30 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="dbUtil" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.practical_small_tools">
+    <configuration name="capture_video" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MY_PYTHON" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/my_project/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/my_project/utils/capture_video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="db_util" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="MY_PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +120,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/my_project/utils/dbUtil.py" />
+      <option name="SCRIPT_NAME" value="D:\ActionSoft\workspace\code\MY_PYTHON\src\my_project\utils\db_util.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,6 +129,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="practical_small_tools" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MY_PYTHON" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/my_project/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/my_project/utils/practical_small_tools.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.practical_small_tools" />
+        <item itemvalue="Python.capture_video" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -127,7 +190,7 @@
       <workItem from="1786509724369" duration="404000" />
       <workItem from="1786511163557" duration="298000" />
       <workItem from="1786511531885" duration="200000" />
-      <workItem from="1786511745705" duration="176000" />
+      <workItem from="1786511745705" duration="6327000" />
     </task>
     <task id="LOCAL-00001" summary="1、提交">
       <option name="closed" value="true" />
@@ -153,7 +216,23 @@
       <option name="project" value="LOCAL" />
       <updated>1786506675639</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1、创建首个文件">
+      <option name="closed" value="true" />
+      <created>1786512050878</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1786512050878</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1、">
+      <option name="closed" value="true" />
+      <created>1786512088720</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1786512088720</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,10 +253,14 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Merge branch 'main' of https://github.com/Brooks-Code/py-data-tool" />
     <MESSAGE value="1、提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="1、提交" />
+    <MESSAGE value="1、创建首个文件" />
+    <MESSAGE value="1、" />
+    <option name="LAST_COMMIT_MESSAGE" value="1、" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MY_PYTHON$main.coverage" NAME="main Coverage Results" MODIFIED="1786450148068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/my_project" />
-    <SUITE FILE_PATH="coverage/MY_PYTHON$dbUtil.coverage" NAME="dbUtil Coverage Results" MODIFIED="1786508120513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/my_project/utils" />
+    <SUITE FILE_PATH="coverage/MY_PYTHON$capture_video.coverage" NAME="capture_video Coverage Results" MODIFIED="1786514893741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/my_project/utils" />
+    <SUITE FILE_PATH="coverage/MY_PYTHON$practical_small_tools.coverage" NAME="practical_small_tools Coverage Results" MODIFIED="1786522145124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/my_project/utils" />
+    <SUITE FILE_PATH="coverage/MY_PYTHON$dbUtil.coverage" NAME="dbUtil Coverage Results" MODIFIED="1786511925222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/my_project/utils" />
   </component>
 </project>
