@@ -25,7 +25,7 @@ GG = ChromiumPage()
 GG.listen.start()
 
 # 6. 访问 iCloud Notes 页面
-url = "http://localhost:3000/home"
+url = "https://izjns8cje3ku.s2yexiwphx.cc/poster.html?viewkey=02c9e4e809bdb06625d2dcb92e7b7cda"
 GG.get(url)
 time.sleep(1)
 
@@ -40,6 +40,7 @@ if "Sign In" in page_text or "sign in" in page_text.lower():
 
 # 8. 捕获并打印 API 响应
 print("\n等待...")
+print(GG)
 try:
     response = GG.listen.wait(timeout=10)
     if response:
