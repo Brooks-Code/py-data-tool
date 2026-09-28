@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c3c9fba-1462-4574-a88e-7974d4787442" name="Changes" comment="1、">
-      <change afterPath="$PROJECT_DIR$/src/com/brooks/my_project/utils/append_to_ppt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/brooks/my_project/utils/chatbot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/brooks/my_project/utils/chroma_db_util.py" afterDir="false" />
+    <list default="true" id="5c3c9fba-1462-4574-a88e-7974d4787442" name="Changes" comment="1、测试小工具">
+      <change afterPath="$PROJECT_DIR$/src/com/brooks/my_project/test/my_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MY_PYTHON.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MY_PYTHON.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/brooks/my_project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brooks/my_project/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/brooks/my_project/utils/capture_video.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brooks/my_project/utils/capture_video.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/brooks/my_project/utils/db_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brooks/my_project/utils/mysql_db_util.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,29 +37,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/ActionSoft/workspace/code/MY_PYTHON/src/com/brooks/my_project/utils/capture_video.py",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.general",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ActionSoft/workspace/code/MY_PYTHON/src/com/brooks/my_project/utils/capture_video.py&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ActionSoft\workspace\code\MY_PYTHON\src\com\brooks\my_project\test" />
+      <recent name="D:\ActionSoft\workspace\code\MY_PYTHON\src\com\brooks\my_project\utils" />
       <recent name="D:\ActionSoft\workspace\code\MY_PYTHON\src\com\brooks" />
       <recent name="D:\ActionSoft\workspace\code\MY_PYTHON\src\com.brooks" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.chatbot">
+  <component name="RunManager" selected="Python.my_test">
     <configuration name="append_to_ppt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MY_PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,28 +76,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/com/brooks/my_project/utils/append_to_ppt.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="capture_video" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MY_PYTHON" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/com/brooks/my_project/utils" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/com/brooks/my_project/utils/capture_video.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +128,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="my_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MY_PYTHON" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/com/brooks/my_project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/com/brooks/my_project/test/my_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ppt_generation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MY_PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,7 +163,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/com/brooks/my_project/main.py" />
+      <option name="SCRIPT_NAME" value="D:\ActionSoft\workspace\code\MY_PYTHON\src\com\brooks\my_project\utils\ppt_generation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.my_test" />
         <item itemvalue="Python.chatbot" />
         <item itemvalue="Python.chroma_db_util" />
         <item itemvalue="Python.append_to_ppt" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.capture_video" />
+        <item itemvalue="Python.ppt_generation" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +197,16 @@
       <workItem from="1786873875848" duration="3965000" />
       <workItem from="1787034857199" duration="8614000" />
       <workItem from="1787118091526" duration="6048000" />
-      <workItem from="1787621154166" duration="4804000" />
+      <workItem from="1787621154166" duration="8528000" />
+      <workItem from="1787644592953" duration="1735000" />
+      <workItem from="1787708384359" duration="1402000" />
+      <workItem from="1787709981346" duration="270000" />
+      <workItem from="1787710264051" duration="64000" />
+      <workItem from="1787710339445" duration="1180000" />
+      <workItem from="1787711541206" duration="1748000" />
+      <workItem from="1788936299913" duration="1872000" />
+      <workItem from="1790412112958" duration="44000" />
+      <workItem from="1790412645684" duration="29000" />
     </task>
     <task id="LOCAL-00001" summary="1、">
       <option name="closed" value="true" />
@@ -215,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786687488931</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1、测试小工具">
+      <option name="closed" value="true" />
+      <created>1787639010684</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1787639010684</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,7 +251,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1、" />
-    <option name="LAST_COMMIT_MESSAGE" value="1、" />
+    <MESSAGE value="1、测试小工具" />
+    <option name="LAST_COMMIT_MESSAGE" value="1、测试小工具" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -246,6 +264,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MY_PYTHON$main.coverage" NAME="main Coverage Results" MODIFIED="1787043309241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/brooks/my_project" />
     <SUITE FILE_PATH="coverage/MY_PYTHON$chroma_db_util.coverage" NAME="chroma_db_util Coverage Results" MODIFIED="1787636629253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/brooks/my_project/utils" />
+    <SUITE FILE_PATH="coverage/MY_PYTHON$my_test.coverage" NAME="my_test Coverage Results" MODIFIED="1788937551829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/brooks/my_project/test" />
     <SUITE FILE_PATH="coverage/MY_PYTHON$capture_video.coverage" NAME="capture_video Coverage Results" MODIFIED="1786877449264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/brooks/my_project/utils" />
     <SUITE FILE_PATH="coverage/MY_PYTHON$append_to_ppt.coverage" NAME="append_to_ppt Coverage Results" MODIFIED="1787121327622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/brooks/my_project/utils" />
     <SUITE FILE_PATH="coverage/MY_PYTHON$capture_video__1_.coverage" NAME="capture_video (1) Coverage Results" MODIFIED="1786535451810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/com/brooks/my_project/utils" />
